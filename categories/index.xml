@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on JapanBonsai</title>
+    <title>Categories on Keto Diet For Me</title>
     <link>https://srilankasl.com/categories/</link>
-    <description>Recent content in Categories on JapanBonsai</description>
+    <description>Recent content in Categories on Keto Diet For Me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 13 May 2021 10:51:47 +0530</lastBuildDate><atom:link href="https://srilankasl.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>one</title>
-      <link>https://srilankasl.com/categories/one/</link>
-      <pubDate>Thu, 13 May 2021 10:51:47 +0530</pubDate>
-      
-      <guid>https://srilankasl.com/categories/one/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>two</title>
-      <link>https://srilankasl.com/categories/two/</link>
-      <pubDate>Thu, 13 May 2021 10:51:47 +0530</pubDate>
-      
-      <guid>https://srilankasl.com/categories/two/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://srilankasl.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
